@@ -2,6 +2,8 @@
 
 This is a singleplayer mod that adds guides to missions to practice speedrunning them.
 
+See [this video here for an example of `Franklin & Lamar`](https://youtu.be/FIb2PjkL8Ys).
+
 ## Key Bindings
 
 * `F4` to toggle Debug interface.
