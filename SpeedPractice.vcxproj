@@ -130,6 +130,7 @@
     </Link>
     <ClCompile>
       <AdditionalIncludeDirectories>..\..\Deps\ScriptHookV_SDK_1.0.617.1a\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <PostBuildEvent>
       <Command>IF NOT EXIST "D:\Steam\steamapps\common\Grand Theft Auto V" GOTO NODIR
