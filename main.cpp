@@ -14,6 +14,7 @@ BOOL APIENTRY DllMain(HMODULE hInstance, DWORD reason, LPVOID lpReserved)
 		scriptUnregister(hInstance);
 		keyboardHandlerUnregister(ScriptKeyboardHandler);
 		break;
-	}		
+	}
+
 	return TRUE;
 }

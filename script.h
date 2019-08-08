@@ -8,8 +8,6 @@
 
 class Mission;
 
-Mission* FranklinAndLamar();
-
 void ScriptMain();
 
 // Show a subtitle with the given content.
