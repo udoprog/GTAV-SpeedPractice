@@ -7,8 +7,9 @@ See [this video here for an example of `Franklin & Lamar`](https://youtu.be/FIb2
 ## Key Bindings
 
 * `F4` to toggle Debug interface.
-* `UP` and `DOWN` to move to the previous or next checkpoint.
-* `LEFT` and `RIGHT` move from the previous or next training.
+* `UP` and `DOWN` to move to the previous or next checkpoint (use `DOWN` to skip checkpoints).
+* `LEFT` and `RIGHT` move from the previous or next mission.
+* `DELETE` adds the current location as a Waypoint in `coords.txt` (in the GTA V folder).
 
 ## Requirements
 
